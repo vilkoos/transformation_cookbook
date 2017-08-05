@@ -34,7 +34,7 @@ This cookbook will show how this can be done easily with [pandasql](http://blog.
 # Contents
 
 ================ pre-requisites ===================================
-- 101 - Pandas [Dataframe fundamentals](101_Pandas_Dataframe_fundamentals.ipynb)
+- 101 - Pandas [Dataframe fundamentals](./cookbook/101_Pandas_Dataframe_fundamentals.ipynb)
 - 102 - elementary dataframe properties and methods 
 - 103 - How to create dataframes in Python
 - 110 - How to read data from file
