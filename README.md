@@ -1,4 +1,11 @@
-# Transformation cookbook ([TOC](./cookbook/000_data_transformation_intro.ipynb))
+
+# This is a work in progress, all is in flux
+
+
+----------
+
+
+# Transformation cookbook [(toc)](./cookbook/000_data_transformation_intro.ipynb)
 
 This cookbook shows how to do data transformation in Python.
 
@@ -25,8 +32,10 @@ This cookbook will rely heavily on the use of Pandas.
 Those familiar with the SQL, will probably prefer SQL to do 2,3,4, 5 and 6.  
 This cookbook will show how this can be done easily with [pandasql](http://blog.yhat.com/posts/pandasql-intro.html) 
 
+
 ----------
 
-# Contents
+[Cookbook intro and table of contents](./cookbook/000_data_transformation_intro.ipynb)
 
-Cookbook intro and [table of contents](./cookbook/000_data_transformation_intro.ipynb)
+
+----------
